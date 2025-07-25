@@ -1,3 +1,3 @@
 flask==2.3.3
-tensorflow==3.7
+tensorflow==2.16
 numpy
